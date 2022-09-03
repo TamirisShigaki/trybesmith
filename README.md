@@ -1,4 +1,10 @@
-# 🚧 README em construção 🚧
+# 🚧 Readme em construção 🚧
+
+## 29 – Projeto trybesmith
+
+## Contexto
+
+Projeto pessoal desenvolvido na Trybe, onde tive que criar uma API RESTful usando a arquitetura MSC (Model-Service-Controller) utilizando TypeScript e banco de dados MySQL. É uma API de uma loja de itens medievais.
 
 <!-- Olá, Tryber!
 
